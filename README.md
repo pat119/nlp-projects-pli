@@ -1,5 +1,5 @@
 # nlp-projects-pli
-This is my personal repository for C and C++ projects.
+This is my personal repository for NLP and LLM projects.
 
 ## Code:
 - Available upon request (pli373775@gmail.com)
@@ -25,7 +25,3 @@ Patrick Li and Ishmael Lee
 A log-linear model for text classification, implemented in PyTorch. Various smoothing techniques, including add-lambda with backoff, are also implemented. This is a basic model that uses embeddings as features. The model was trained for the task of classifying emails as spam or non-spam, and classifying documents as English or Spanish. It achieved a test accuracy of 90% on the spam task and 87% on the language task. 
 Additional features could be added, such as bigram and trigram counts. 
 
-
-# Vending machine
-- Program that simulates a terminal-based vending machine.
-- The user can buy something with sufficient funds and as long as it's in stock.
